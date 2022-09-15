@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 11nux&#39;s blog</title>
-    <link>https://11nux.github.io/posts/</link>
-    <description>Recent content in Posts on 11nux&#39;s blog</description>
+    <title>Posts on 2erone&#39;s blog</title>
+    <link>https://2erone.github.io/posts/</link>
+    <description>Recent content in Posts on 2erone&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>11nux,All rights reserved.</copyright>
+    <copyright>2erone,All rights reserved.</copyright>
     <lastBuildDate>Wed, 17 Aug 2022 15:48:38 +0800</lastBuildDate>
     
-        <atom:link href="https://11nux.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://2erone.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fisrt</title>
-      <link>https://11nux.github.io/2022/08/fisrt/</link>
+      <link>https://2erone.github.io/2022/08/fisrt/</link>
       <pubDate>Wed, 17 Aug 2022 15:48:38 +0800</pubDate>
       
-      <guid>https://11nux.github.io/2022/08/fisrt/</guid>
+      <guid>https://2erone.github.io/2022/08/fisrt/</guid>
       <description>welcome to my blog </description>
     </item>
     
